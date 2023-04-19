@@ -1,0 +1,5 @@
+stack          top_of_stack  I/P    Operation
+0               0            x        shift 
+0x3             3            y        shift 
+0x3y4           
+Rejected
